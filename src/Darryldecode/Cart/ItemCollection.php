@@ -39,7 +39,7 @@ class ItemCollection extends Collection
      */
     public function getPriceSum()
     {
-        return Helpers::formatValue($this->price * $this->quantity, $this->config['format_numbers'], $this->config);
+        return Helpers::formatValue($this->price * $this->quantity, false, $this->config);
     }
 
     public function __get($name)

@@ -1,39 +1,16 @@
-### 19/02/2023
+# Laravel 8+ Shopping Cart
 
-This is fork of [darryldecode/laravelshoppingcart](https://github.com/darryldecode/laravelshoppingcart), with the following enhancements:
+This is fork of [darryldecode/laravelshoppingcart](https://github.com/darryldecode/laravelshoppingcart)  
 
-- Laravel 10 support
-- Fix tests
-- Add GitHub workflow
+A Shopping Cart Implementation for Laravel Framework  
 
-To install this repository simply run: `composer require ultrono/laravelshoppingcart-1`
-
-
-# Laravel 5 & 6, 8, 9 & 10 Shopping Cart
-[![Latest Stable Version](https://poser.pugx.org/f9webltd/laravel-meta/v)](https://packagist.org/packages/ultrono/laravelshoppingcart-1)
-[![Build Status](https://travis-ci.org/darryldecode/laravelshoppingcart.svg?branch=master)](https://travis-ci.org/darryldecode/laravelshoppingcart)
-[![Total Downloads](https://poser.pugx.org/darryldecode/cart/d/total.svg)](https://packagist.org/packages/darryldecode/cart)
-[![License](https://poser.pugx.org/darryldecode/cart/license.svg)](https://packagist.org/packages/darryldecode/cart)
-
-A Shopping Cart Implementation for Laravel Framework
-
-## QUICK PARTIAL DEMO
-
-Demo: https://shoppingcart-demo.darrylfernandez.com/cart
-
-Git repo of the demo: https://github.com/darryldecode/laravelshoppingcart-demo
+To install this repository simply run: `composer require toonboom/laravelshoppingcart`  
 
 ## INSTALLATION
 
 Install the package through [Composer](http://getcomposer.org/).
 
-For Laravel 5.1~:
-`composer require "darryldecode/cart:~2.0"`
-
-For Laravel 5.5, 5.6, or 5.7~:
-
-```composer require "darryldecode/cart:~4.0"``` or 
-```composer require "darryldecode/cart"```
+```composer require "toonboom/laravelshoppingcart"```
 
 ## CONFIGURATION
 
