@@ -1,6 +1,6 @@
 {
-    "name": "ultrono/laravelshoppingcart-1",
-    "description": "Laravel 5 and above Shopping cart",
+    "name": "toonboom/laravelshoppingcart",
+    "description": "Laravel Shopping cart",
     "keywords": ["laravel", "shopping cart", "cart"],
     "license": "MIT",
     "authors": [
@@ -11,6 +11,10 @@
         {
             "name": "Rob Allport",
             "email": "rob@f9web.co.uk"
+        },
+        {
+            "name": "Jerome Harfouche",
+            "email": "jharfouche@toonboom.com"
         }
     ],
     "require": {
